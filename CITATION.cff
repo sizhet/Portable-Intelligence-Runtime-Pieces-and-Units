@@ -1,11 +1,7 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it using the metadata below."
+message: "If you use or build upon this work, please cite it using the metadata below."
 
-title: "Generalized Structural Trigger and Computational Growth Intelligence"
-
-version: "1.0.0"
-
-date-released: "2026-09-15"
+title: "Portable Intelligence Runtime Pieces and Units: From Runtime Intelligence to Relay Localization and Collective Computational Growth"
 
 type: software
 
@@ -13,51 +9,53 @@ authors:
   - family-names: "Tan"
     given-names: "Sizhe"
 
-abstract: >-
-  Generalized Structural Trigger and Computational Growth Intelligence
-  (GST-CGI) presents a structural-intelligence framework that extends
-  Two-Way CCC beyond String-DNA-only trigger representations toward
-  generalized structural triggers with explicit structural state,
-  comparison semantics, controlled behavior, evidence APIs, and
-  policy perspectives. The framework introduces the Leaf Resolution
-  Gate with DECIDE, REFINE, LEFTOVER, and DELEGATE outcomes; treats
-  Leftover as a first-class structural boundary and input to Delta
-  Intelligence; introduces the Leaf Sandbox Package and Delegated
-  Structural Unfolding for policy-bounded external computation; and
-  develops Computational Growth Intelligence as the capability to
-  construct, refine, validate, delegate, compose, and govern the
-  computational structures through which future intelligence is
-  performed. The framework further distinguishes Experience Growth,
-  Performance Growth, Computational-Structure Growth, and
-  Computational-System Growth, and extends these ideas toward
-  policy-governed AI computational ecosystems.
+version: "1.0.0"
 
-keywords:
-  - "Generalized Structural Trigger"
-  - "GST"
-  - "Computational Growth Intelligence"
-  - "CGI"
-  - "Structural Intelligence"
-  - "Two-Way CCC"
-  - "Leaf Resolution Gate"
-  - "Decision Sufficiency"
-  - "Leftover"
-  - "Delta Intelligence"
-  - "Structural Growth"
-  - "Computational-Structure Growth"
-  - "Computational-System Growth"
-  - "Leaf Sandbox Package"
-  - "Delegated Structural Unfolding"
-  - "Evidence API"
-  - "Counter-Evidence"
-  - "Policy-Governed AI"
-  - "AI Computational Ecosystem"
-  - "Structural Collective Learning"
+date-released: "2026-09-16"
+
+url: "https://github.com/sizhet/Portable-Intelligence-Runtime-Pieces-and-Units"
+
+repository-code: "https://github.com/sizhet/Portable-Intelligence-Runtime-Pieces-and-Units"
 
 license: "Apache-2.0"
 
-repository-code: "https://github.com/sizhet/Generalized-Structural-Trigger-and-Computational-Growth-Intelligence"
+abstract: >-
+  Portable Intelligence Runtime Pieces and Units (PIRP/PIRU) develops a
+  structural framework for intelligence that can be bounded, carried,
+  published, received, localized, continued, composed, validated, relayed,
+  and grown across humans, AIs, tools, runtimes, organizations, domains,
+  and generations. PIRP represents discovery-oriented Portable Intelligence
+  whose useful runtime structure may precede complete computational
+  classification, while PIRU represents a more formalized, bounded, typed,
+  and reusable engineering unit. The framework extends Portable Intelligence
+  into Open PIRPs for unresolved intelligence, publishing as intelligence
+  transfer, Relay Context, Knowledge and Relay CallingGraphs, Relay
+  Localization, the PIRP Dispatch Plane, Collective Learning, and
+  Computational Growth. It further proposes that the history of how
+  intelligence is received, transformed, continued, and grown can itself
+  become reusable structural intelligence.
 
-url: "https://github.com/sizhet/Generalized-Structural-Trigger-and-Computational-Growth-Intelligence"
-
-doi: 10.5281/zenodo.22781691
+keywords:
+  - "Portable Intelligence"
+  - "PIRP"
+  - "PIRU"
+  - "Portable Intelligence Runtime Piece"
+  - "Portable Intelligence Runtime Unit"
+  - "Runtime Intelligence"
+  - "Pre-Categorical Intelligence"
+  - "Open PIRP"
+  - "Unresolved Intelligence"
+  - "Relay"
+  - "Relay Context"
+  - "Relay Localization"
+  - "Structural Localization"
+  - "Computational Growth Localization"
+  - "PIRP Dispatch Plane"
+  - "Knowledge CallingGraph"
+  - "Relay CallingGraph"
+  - "Collective Intelligence CallingGraph"
+  - "Collective Learning"
+  - "Computational Growth"
+  - "Structural Intelligence"
+  - "Human-AI Collaboration"
+  - "Open-Ended Growth"
