@@ -1457,5 +1457,5 @@ Visual navigation:
 Research frontier:
 
 [`FUTURE-DIRECTIONS.md`](FUTURE-DIRECTIONS.md)
-EADME → START-HERE → CONTENTS` 三层入口已经分工清楚：**README 负责总论，START-HERE 负责快速理解，CONTENTS 负责稳定索引与阅读路线**。下一份 `GLOSSARY.md` 就可以专门做术语边界，尤其值得把 **PIRP / PIRU、Open PIRP、Relay、Relay Context、Structural Localization / Relay Localization、Knowledge CG / Relay CG、Structural Delta、Intelligence Commons / Growth Commons** 定义得非常干净。
-```
+EADME → START-HERE → CONTENTS
+
