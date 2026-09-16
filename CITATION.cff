@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+
+title: "Generalized Structural Trigger and Computational Growth Intelligence"
+
+version: "1.0.0"
+
+date-released: "2026-09-15"
+
+type: software
+
+authors:
+  - family-names: "Tan"
+    given-names: "Sizhe"
+
+abstract: >-
+  Generalized Structural Trigger and Computational Growth Intelligence
+  (GST-CGI) presents a structural-intelligence framework that extends
+  Two-Way CCC beyond String-DNA-only trigger representations toward
+  generalized structural triggers with explicit structural state,
+  comparison semantics, controlled behavior, evidence APIs, and
+  policy perspectives. The framework introduces the Leaf Resolution
+  Gate with DECIDE, REFINE, LEFTOVER, and DELEGATE outcomes; treats
+  Leftover as a first-class structural boundary and input to Delta
+  Intelligence; introduces the Leaf Sandbox Package and Delegated
+  Structural Unfolding for policy-bounded external computation; and
+  develops Computational Growth Intelligence as the capability to
+  construct, refine, validate, delegate, compose, and govern the
+  computational structures through which future intelligence is
+  performed. The framework further distinguishes Experience Growth,
+  Performance Growth, Computational-Structure Growth, and
+  Computational-System Growth, and extends these ideas toward
+  policy-governed AI computational ecosystems.
+
+keywords:
+  - "Generalized Structural Trigger"
+  - "GST"
+  - "Computational Growth Intelligence"
+  - "CGI"
+  - "Structural Intelligence"
+  - "Two-Way CCC"
+  - "Leaf Resolution Gate"
+  - "Decision Sufficiency"
+  - "Leftover"
+  - "Delta Intelligence"
+  - "Structural Growth"
+  - "Computational-Structure Growth"
+  - "Computational-System Growth"
+  - "Leaf Sandbox Package"
+  - "Delegated Structural Unfolding"
+  - "Evidence API"
+  - "Counter-Evidence"
+  - "Policy-Governed AI"
+  - "AI Computational Ecosystem"
+  - "Structural Collective Learning"
+
+license: "Apache-2.0"
+
+repository-code: "https://github.com/sizhet/Generalized-Structural-Trigger-and-Computational-Growth-Intelligence"
+
+url: "https://github.com/sizhet/Generalized-Structural-Trigger-and-Computational-Growth-Intelligence"
+
+doi: 10.5281/zenodo.22781691
