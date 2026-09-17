@@ -19,6 +19,8 @@ repository-code: "https://github.com/sizhet/Portable-Intelligence-Runtime-Pieces
 
 license: "Apache-2.0"
 
+doi: 10.5281/zenodo.22805050
+
 abstract: >-
   Portable Intelligence Runtime Pieces and Units (PIRP/PIRU) develops a
   structural framework for intelligence that can be bounded, carried,
