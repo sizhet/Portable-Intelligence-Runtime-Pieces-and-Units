@@ -1320,6 +1320,7 @@ Portable-Intelligence-Runtime-Pieces-and-Units/
 ├── FIGURE-INDEX.md
 ├── FUTURE-DIRECTIONS.md
 ├── CHANGELOG.md
+├── LICENSE.txt
 ├── CITATION.cff
 ├── .zenodo.json
 └── GitHub-Release-Notes-v1.0.0.md

@@ -1816,6 +1816,7 @@ Portable-Intelligence-Runtime-Pieces-and-Units/
 ├── FIGURE-INDEX.md
 ├── FUTURE-DIRECTIONS.md
 ├── CHANGELOG.md
+├── LICENSE.txt
 ├── CITATION.cff
 ├── .zenodo.json
 └── GitHub-Release-Notes-v1.0.0.md
@@ -2106,4 +2107,27 @@ Computational Growth
 ```
 
 The framework is intentionally open-ended and expected to evolve through further research, implementation, validation, counter-evidence, and collective contribution.
+
+---
+
+## Author
+
+Sizhe Tan\
+Independent Researcher
+
+GPT-Obot\
+AI Research Assistant
+
+2026
+
+DOI: TBD
+    
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md)
 
