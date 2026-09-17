@@ -69,7 +69,7 @@ Relevant Intelligence X
 
 For example:
 
-```text id="31s66m"
+```text
 Context
    |
    v
@@ -81,7 +81,7 @@ Relevant CCC
 
 or:
 
-```text id="pjpmb1"
+```text
 Runtime State
      |
      v
@@ -107,7 +107,7 @@ Structural Localization asks:
 
 Possible targets include:
 
-```text id="h7o9xa"
+```text
 CCC
 PIRU
 CallingPath
@@ -121,7 +121,7 @@ Structural Memory
 
 The general form is:
 
-```text id="93muwq"
+```text
 Query / Context
        |
        v
@@ -142,7 +142,7 @@ This is essential for reusing folded intelligence.
 
 Now consider an Open PIRP.
 
-```text id="9fyomv"
+```text
 Open PIRP-X
  |
  +---- Known
@@ -205,7 +205,7 @@ The two problems can be summarized as:
 
 Or:
 
-```text id="e2mpge"
+```text
 Structural Localization
         |
         v
@@ -231,13 +231,13 @@ Human collaboration often relies on social structure.
 
 A person encounters a problem and asks:
 
-```text id="rdx5ig"
+```text
 Who do I know?
 ```
 
 Then:
 
-```text id="6px0ku"
+```text
 Person-A
    |
    +---- Friend-B
@@ -259,7 +259,7 @@ The most qualified next intelligence may be outside the source agent's social gr
 
 Consider:
 
-```text id="lfkyfk"
+```text
 Agent-A
  |
  +---- socially close -> Agent-B
@@ -269,7 +269,7 @@ Agent-A
 
 Yet the PIRP may require a capability possessed by Agent-Z:
 
-```text id="fuc4wl"
+```text
 Agent-Z
  |
  +---- socially distant
@@ -289,7 +289,7 @@ A PIRP ecosystem should be able to search beyond known social relations.
 
 Two intelligences may be:
 
-```text id="4e4qxy"
+```text
 different organizations
 different disciplines
 different countries
@@ -311,7 +311,7 @@ Relay Localization should make such relationships discoverable.
 
 A more useful relay structure is:
 
-```text id="ik6ihg"
+```text
 PIRP
  |
  v
@@ -341,13 +341,13 @@ It adds another dimension.
 
 A capability should not be represented only as:
 
-```text id="v4j2wd"
+```text
 Agent-A knows Biology.
 ```
 
 A stronger representation is:
 
-```text id="o3b54p"
+```text
 For PIRP family X,
 under Context C,
 Agent-A has repeatedly produced
@@ -366,7 +366,7 @@ It connects directly to Relay Context history.
 
 An Open PIRP can expose a Relay Interface:
 
-```text id="g6h0nm"
+```text
 PIRP-X
  |
  +---- Current Boundary
@@ -389,7 +389,7 @@ The PIRP becomes partially self-descriptive as a dispatch object.
 
 A PIRP Capability Signature may include:
 
-```text id="fbub3a"
+```text
 Problem Structure
 Required Knowledge
 Required Reasoning
@@ -403,7 +403,7 @@ Validation Conditions
 
 A candidate intelligence may expose:
 
-```text id="0wb0cy"
+```text
 Knowledge Signature
 Capability Signature
 Tool Access
@@ -420,7 +420,7 @@ Matching becomes a structural problem.
 
 Conceptually:
 
-```text id="4cgxpu"
+```text
 PIRP Capability Signature
           |
           v
@@ -450,7 +450,7 @@ A formal-methods specialist may be structurally more useful.
 
 Therefore:
 
-```text id="cufw9q"
+```text 
 High Similarity
     !=
 High Growth Potential
@@ -458,7 +458,7 @@ High Growth Potential
 
 The better target may maximize:
 
-```text id="01gng9"
+```text
 Relevant Overlap
        +
 Complementary Capability
@@ -482,7 +482,7 @@ Call this:
 
 It may consider:
 
-```text id="fjikcp"
+```text
 conceptual similarity
 structural similarity
 shared constraints
@@ -507,7 +507,7 @@ Call this:
 
 It may compare:
 
-```text id="g7ixqp"
+```text
 Required Capability
         vs
 Available Capability
@@ -529,7 +529,7 @@ Call this:
 
 Factors may include:
 
-```text id="ygvgyr"
+```text
 terminology mismatch
 context reconstruction
 tool incompatibility
@@ -548,7 +548,7 @@ Thus a theoretically capable agent may still have high Relay Distance.
 
 A preliminary model is:
 
-```text id="j34fku"
+```text
              PIRP-X
             /   |   \
            /    |    \
@@ -571,7 +571,7 @@ A productive relay may require all three distances to be acceptable.
 
 A naive matching system might optimize:
 
-```text id="f27enr"
+```text
 Similarity(PIRP, Agent)
 ```
 
@@ -581,7 +581,7 @@ Relay Localization has a stronger objective:
 
 Conceptually:
 
-```text id="iv0i2s"
+```text
 ExpectedStructuralGrowth(
     PIRP,
     Knowledge,
@@ -602,7 +602,7 @@ It identifies the variables that may matter.
 
 A relay may produce:
 
-```text id="2s1m31"
+```text
 new evidence
 new counter-evidence
 new algorithm
@@ -620,7 +620,7 @@ Any of these may represent useful Structural Delta.
 
 Therefore success should not be defined only as:
 
-```text id="zsyw6x"
+```text
 Problem Solved = Yes
 ```
 
@@ -632,7 +632,7 @@ A relay may be productive without final resolution.
 
 Suppose a relay produces:
 
-```text id="r2tgnq"
+```text
 No Solution
 +
 Validated Failure
@@ -644,7 +644,7 @@ This may still reduce future search cost.
 
 Thus:
 
-```text id="b0m1kb"
+```text
 Useful Structural Delta
     >
 Binary Success Criterion
@@ -660,7 +660,7 @@ This is especially important for research intelligence.
 
 A PIRP may require a combination:
 
-```text id="fyowwo"
+```text 
 Human
 +
 AI
@@ -680,7 +680,7 @@ Therefore the localization target may be a configuration rather than an individu
 
 A general form is:
 
-```text id="b92arw"
+```text
 Given PIRP P,
 
 find:
@@ -699,7 +699,7 @@ is high enough for productive continuation.
 
 Conceptually:
 
-```text id="0yztd7"
+```text
                 PIRP
                   |
                   v
@@ -731,7 +731,7 @@ It is runtime assembly for intelligence growth.
 
 A future system may construct a temporary intelligence configuration:
 
-```text id="e6pnmx"
+```text
 PIRP-X
   |
   +---- Human-A
@@ -767,7 +767,7 @@ This suggests:
 
 The Dispatch Plane manages:
 
-```text id="g3a85a"
+```text
 PIRP
  |
  v
@@ -800,7 +800,7 @@ It is a structural intelligence runtime.
 
 ## 26. Preliminary PIRP Dispatch Plane
 
-```text id="ap2o53"
+```text
                   Open PIRP
                       |
                       v
@@ -847,7 +847,7 @@ This closes the loop between localization and learning.
 
 A critical distinction is:
 
-```text id="8fvavx"
+```text
 Recommend Relay
       !=
 Force Relay
@@ -872,7 +872,7 @@ Human participation may remain voluntary.
 
 For human-facing Open PIRPs:
 
-```text id="61cczc"
+```text 
 Open PIRP
    |
    v
@@ -899,7 +899,7 @@ PIRPs and capabilities may be represented in metric spaces.
 
 Possible dimensions include:
 
-```text id="yr6n2x"
+```text
 domain
 problem structure
 sequence
@@ -919,7 +919,7 @@ A composite structural distance may then support candidate discovery.
 
 A Metric Differential Tree can organize candidate structures.
 
-```text id="v3hnw4"
+```text
 PIRP Query
     |
     v
@@ -942,7 +942,7 @@ It can narrow the search space.
 
 A CCC can capture reusable structural relations such as:
 
-```text id="dp7ovw"
+```text
 Problem Pattern
       |
       v
@@ -951,7 +951,7 @@ Useful Capability Pattern
 
 or:
 
-```text id="sudw9r"
+```text
 PIRP Structure
       |
       v
@@ -968,7 +968,7 @@ DNA-like structures may encode two-way or multi-way dispatch patterns.
 
 For example:
 
-```text id="j85zq9"
+```text
 PIRP Signature
       |
       v
@@ -989,7 +989,7 @@ Relay Localization may benefit from a two-phase process.
 
 ### Phase 1 — Structural Candidate Search
 
-```text id="jqwycu"
+```text
 PIRP
  |
  v
@@ -1001,7 +1001,7 @@ Candidate Set
 
 ### Phase 2 — Contextual Validation
 
-```text id="unx4ph"
+```text
 Candidate Set
  |
  v
@@ -1023,7 +1023,7 @@ This separates broad structural discovery from expensive contextual evaluation.
 
 When relay history becomes mature, some PIRP families may support direct localization:
 
-```text id="fx0qzt"
+```text
 Known PIRP Pattern
        |
        v
@@ -1051,7 +1051,7 @@ Before dispatch, the system should ask:
 
 For example:
 
-```text id="6hm4bp"
+```text
 Candidate Agent-A
  |
  +---- Similarity Evidence
@@ -1071,7 +1071,7 @@ This prevents purely positive matching.
 
 A relay decision may use:
 
-```text id="n6tz9p"
+```text
 Candidate
    |
    +---- Supporting Relay Evidence
@@ -1090,7 +1090,7 @@ This connects Relay Localization with Counter-Evidence Intelligence.
 
 Suppose previous history shows:
 
-```text id="mqcm12"
+```text
 PIRP Family X
 +
 Tool Configuration Y
@@ -1111,13 +1111,13 @@ Failure becomes structural memory.
 
 Even if a target is highly capable:
 
-```text id="sm8jzn"
+```text
 High Capability
 ```
 
 dispatch may still be inappropriate because of:
 
-```text id="at1w44"
+```text
 privacy
 authorization
 resource limits
@@ -1128,7 +1128,7 @@ organizational policy
 
 Therefore:
 
-```text id="4qejcu"
+```text
 Capability Match
       +
 Policy
@@ -1143,7 +1143,7 @@ Permitted Relay
 
 A Policy Decision System can govern:
 
-```text id="0vsjfs"
+```text
 who may receive
 what may be shared
 which tools may execute
@@ -1160,7 +1160,7 @@ This gives Relay Localization a control plane.
 
 Different environments may use different profiles:
 
-```text id="3cclhd"
+```text
 Open Research
 Enterprise
 Private
@@ -1178,7 +1178,7 @@ The same PIRP may therefore localize differently under different policy contexts
 
 Every dispatch produces:
 
-```text id="ymofkv"
+```text
 PIRP
 +
 Selected Target
@@ -1200,7 +1200,7 @@ This becomes a new Relay Context.
 
 ## 42. Closed Relay-Learning Loop
 
-```text id="j8b46u"
+```text
 PIRP
  |
  v
@@ -1239,7 +1239,7 @@ The system should avoid reducing participants to fixed global scores.
 
 Instead it should learn contextual relations:
 
-```text id="9d1o5p"
+```text
 PIRP Type X
 +
 Context C
@@ -1268,7 +1268,7 @@ An agent may gain:
 
 Therefore:
 
-```text id="qoyy9u"
+```text
 Capability(t0)
    !=
 Capability(t1)
@@ -1286,7 +1286,7 @@ One of the most important functions of Relay Localization is discovering intelli
 
 Conceptually:
 
-```text id="r4cz4g"
+```text
 Source Agent
     |
     | does not know
@@ -1310,7 +1310,7 @@ The system creates a new intelligence relation.
 
 Before relay:
 
-```text id="t69tsj"
+```text
 PIRP-X      Agent-Z
 
 No known relation
@@ -1318,7 +1318,7 @@ No known relation
 
 After successful relay:
 
-```text id="qx76qv"
+```text
 PIRP-X
   |
   | productive relay
@@ -1338,7 +1338,7 @@ It grows the map of intelligence relationships.
 
 Repeated localization may reveal:
 
-```text id="al0g6g"
+```text
 Agent-Z
  |
  +---- unexpectedly strong on PIRP Family X
@@ -1366,13 +1366,13 @@ This subsumes both retrieval and relay.
 
 Structural retrieval often focuses on the present:
 
-```text id="a4e4fn"
+```text
 What relevant intelligence exists now?
 ```
 
 Computational Growth Localization asks:
 
-```text id="a17xpk"
+```text
 Where should this intelligence go
 to create a better future structure?
 ```
@@ -1385,13 +1385,13 @@ This is a forward-looking localization problem.
 
 A conventional nearest-neighbor search might find:
 
-```text id="7fs0my"
+```text
 Closest Existing Object
 ```
 
 Computational Growth Localization seeks:
 
-```text id="09z9u7"
+```text
 Best Structural Growth Opportunity
 ```
 
@@ -1409,7 +1409,7 @@ Conceptually, dispatch allocates an intelligence opportunity.
 
 Given limited:
 
-```text id="5dm5ok"
+```text
 human attention
 AI compute
 tool access
@@ -1428,7 +1428,7 @@ Policy therefore remains important.
 
 ## 52. Full Cycle
 
-```text id="fgsj6r"
+```text
                      PIRP
                        |
                        v
@@ -1496,7 +1496,7 @@ Much of the substrate already exists.
 
 A minimal system could begin with:
 
-```text id="afysqf"
+```text
 PIRP Metadata
 +
 Capability Metadata
@@ -1518,7 +1518,7 @@ No new global platform is required initially.
 
 Candidate PIRPs already exist in:
 
-```text id="eg4dqw"
+```text
 GitHub Issues
 Papers
 DOI Repositories
@@ -1532,7 +1532,7 @@ Open Problems
 
 Candidate capability evidence already exists in:
 
-```text id="nnvgwk"
+```text
 publications
 repositories
 contributions
@@ -1549,7 +1549,7 @@ The first task is making these structures explicit enough for matching.
 
 AI can initially operate as:
 
-```text id="i0ncvf"
+```text
 PIRP Extractor
 Capability Extractor
 Structural Matcher
@@ -1729,7 +1729,7 @@ The combination produces a broader problem:
 
 This leads to:
 
-```text id="s1x37y"
+```text
 Structural Localization
           +
 Relay Localization
@@ -1740,7 +1740,7 @@ Computational Growth Localization
 
 The target may be:
 
-```text id="dpafdb"
+```text
 Knowledge
 +
 Human
@@ -1762,7 +1762,7 @@ It is productive continuation.
 
 The resulting PIRP Dispatch Plane performs:
 
-```text id="a4kz0d"
+```text
 Represent
    |
    v
@@ -1791,7 +1791,7 @@ Every successful or failed relay then returns new intelligence to the system.
 
 This creates a closed loop:
 
-```text id="h3o2qm"
+```text
 PIRP
  |
  v
@@ -1839,7 +1839,7 @@ At sufficient scale, PIRPs can continuously search not only for knowledge, but f
 
 The final article in this initial series integrates the framework:
 
-```text id="bpeepu"
+```text
 PIRP
   ->
 Publish

@@ -97,7 +97,7 @@ Portable Runtime Intelligence
 
 The distinction then developed into:
 
-```text id="l4ue24"
+```text
 PIRP
  |
  | preserve emerging intelligence
@@ -122,7 +122,7 @@ It can be published.
 
 Once published, it can be:
 
-```text id="0kfrq8"
+```text
 discovered
 localized
 received
@@ -146,7 +146,7 @@ We define:
 
 Participants may include:
 
-```text id="p2us53"
+```text
 Humans
 LLMs
 Specialized Models
@@ -174,7 +174,7 @@ It is defined by the movement and growth of intelligence objects.
 
 The core loop is:
 
-```text id="u6z7hs"
+```text
               CREATE
                 |
                 v
@@ -233,7 +233,7 @@ Many existing artifacts already behave like PIRPs even though they are not calle
 
 Examples include:
 
-```text id="b8fr7j"
+```text
 GitHub Issue
 Pull Request
 Paper
@@ -262,7 +262,7 @@ Consider a GitHub Issue.
 
 It may be:
 
-```text id="m78x8r"
+```text
 created
    |
    v
@@ -289,7 +289,7 @@ merged
 
 This already resembles:
 
-```text id="h3xk7f"
+```text
 PIRP
  |
  v
@@ -318,7 +318,7 @@ The intelligence structure is simply not explicit.
 
 A paper may contain:
 
-```text id="5c8uv9"
+```text
 Problem
 Context
 Method
@@ -330,7 +330,7 @@ Future Work
 
 Another researcher receives it and produces:
 
-```text id="jmjssg"
+```text
 New Experiment
 New Theory
 Counter-Evidence
@@ -342,7 +342,7 @@ This is already a relay.
 
 The missing structure is often:
 
-```text id="pb1eoc"
+```text
 Why this paper was picked up
 Which idea transferred
 Which capability mattered
@@ -358,7 +358,7 @@ That is Relay Context.
 
 A technical question may contain:
 
-```text id="3d6mja"
+```text
 Problem
 Context
 Observed Failure
@@ -370,7 +370,7 @@ Another participant responds.
 
 This is already:
 
-```text id="p5ibif"
+```text
 Open PIRP
    |
    v
@@ -388,7 +388,7 @@ Again, the ecosystem exists implicitly.
 
 Scientific progress often follows:
 
-```text id="x1buvt"
+```text
 Researcher-A
      |
      v
@@ -421,7 +421,7 @@ It attempts to make its computational structure explicit.
 
 Existing artifacts usually have identifiers:
 
-```text id="pn8c49"
+```text
 URL
 DOI
 Issue Number
@@ -435,7 +435,7 @@ They do not necessarily identify the intelligence structure inside the artifact.
 
 A future PIRP layer may explicitly identify:
 
-```text id="ckj09f"
+```text
 Problem PIRP
 Algorithm PIRP
 Counter-Evidence PIRP
@@ -458,7 +458,7 @@ Machines often require explicit structure.
 
 Useful context may include:
 
-```text id="g1c82u"
+```text
 domain
 assumptions
 constraints
@@ -480,7 +480,7 @@ Many research artifacts describe uncertainty informally.
 
 Open PIRP makes the frontier explicit:
 
-```text id="x68vhb"
+```text
 Known
   |
   v
@@ -498,7 +498,7 @@ This allows AI systems to reason about where computation should continue.
 
 Current systems often preserve:
 
-```text id="6yg1rs"
+```text
 author
 timestamp
 citation
@@ -508,7 +508,7 @@ comment
 
 But they rarely preserve:
 
-```text id="vxfnkw"
+```text
 why picked up
 which perspective used
 which capability mattered
@@ -524,7 +524,7 @@ Relay history turns collaboration history into intelligence history.
 
 A PIRP ecosystem should be able to represent:
 
-```text id="9f1mgg"
+```text
 PIRP-A
  |
  +---- specialized into PIRP-B
@@ -546,7 +546,7 @@ The largest missing participant is increasingly AI.
 
 Today AI often helps:
 
-```text id="3cbx6g"
+```text
 answer
 summarize
 generate
@@ -556,7 +556,7 @@ code
 
 But in a PIRP ecology, AI can also participate in:
 
-```text id="i9l4rq"
+```text
 PIRP extraction
 Open-PIRP structuring
 structural matching
@@ -583,7 +583,7 @@ That is not the only useful entry point.
 
 A PIRP ecology allows AI to begin as:
 
-```text id="s4ub7r"
+```text
 Indexer
 Structurer
 Matcher
@@ -598,7 +598,7 @@ These roles are already valuable.
 
 Given:
 
-```text id="o30xgg"
+```text
 Paper
 Issue
 Repository
@@ -607,7 +607,7 @@ Discussion
 
 AI may extract:
 
-```text id="4i8f4j"
+```text
 PIRP Identity
 Problem
 Known
@@ -625,13 +625,13 @@ This converts implicit intelligence into explicit PIRP structure.
 
 An informal question:
 
-```text id="bc6g6p"
+```text
 Why does this fail?
 ```
 
 may become:
 
-```text id="wjkqmv"
+```text
 Context
 Known Behavior
 Failure Condition
@@ -649,7 +649,7 @@ AI helps lower the cost of producing machine-operable Open PIRPs.
 
 AI can compare:
 
-```text id="sq08j7"
+```text
 PIRP Signature
       |
       v
@@ -668,7 +668,7 @@ This helps find structurally relevant continuation opportunities.
 
 AI can suggest:
 
-```text id="tsd8h1"
+```text
 This PIRP resembles Problem Family X.
 
 Agent/Tool Family Y has historically produced
@@ -685,7 +685,7 @@ The final pickup decision may remain human-controlled where appropriate.
 
 After a relay, AI can structure:
 
-```text id="qkl6vh"
+```text
 Source PIRP
 Receiver
 Context
@@ -710,7 +710,7 @@ PIRP avoids this.
 
 A participant can simply see:
 
-```text id="stt3f5"
+```text
 Problem
 Known
 Unknown
@@ -720,7 +720,7 @@ What Is Needed
 
 and decide:
 
-```text id="3p8p36"
+```text
 I can contribute here.
 ```
 
@@ -736,7 +736,7 @@ This leads to the participation principle:
 
 A contribution may be:
 
-```text id="hd4w4s"
+```text
 one answer
 one counter-example
 one algorithm
@@ -756,7 +756,7 @@ The system handles the larger structural integration.
 
 A public PIRP environment may expose:
 
-```text id="k70kdr"
+```text
 PIRP-001
 PIRP-002
 PIRP-003
@@ -768,7 +768,7 @@ Humans and AIs can choose what to investigate.
 
 This creates a low-friction model:
 
-```text id="l5w3xa"
+```text
 Publish Opportunity
        |
        v
@@ -791,7 +791,7 @@ A participant need not solve the whole PIRP.
 
 A valid contribution may be:
 
-```text id="2nm9vz"
+```text
 New Evidence
 New Counter-Evidence
 New Failed Attempt
@@ -946,7 +946,7 @@ Today's public infrastructure primarily stores artifacts.
 
 A future layer may expose the intelligence inside them.
 
-```text id="z6k6r4"
+```text
 Repositories
 Papers
 Issues
@@ -975,7 +975,7 @@ It may be a federated layer across existing systems.
 
 Its function is to make PIRPs:
 
-```text id="5st8rx"
+```text
 identifiable
 discoverable
 relatable
@@ -992,7 +992,7 @@ The original artifacts may remain where they already exist.
 
 A PIRP Registry may initially store only metadata:
 
-```text id="7f5dqu"
+```text
 PIRP-ID
 Title
 Type
@@ -1020,7 +1020,7 @@ The registry should not be confused with the PIRP itself.
 
 Conceptually:
 
-```text id="1uqsl4"
+```text
 Registry
    |
    v
@@ -1053,7 +1053,7 @@ Traditional shared knowledge systems primarily answer:
 
 A PIRP ecosystem can additionally expose:
 
-```text id="7nq4lr"
+```text
 What is unknown?
 
 What has failed?
@@ -1081,7 +1081,7 @@ The shared space contains not only knowledge, but opportunities for new intellig
 
 A Growth PIRP may say:
 
-```text id="ekdt7v"
+```text
 Current Structure
        |
        v
@@ -1108,7 +1108,7 @@ As the number of PIRPs grows, discovery becomes a primary challenge.
 
 Search may need to operate across:
 
-```text id="s4rwx1"
+```text
 text
 structure
 metrics
@@ -1127,7 +1127,7 @@ This is richer than ordinary keyword search.
 
 A PIRP Structural Search Plane may support:
 
-```text id="2ylv52"
+```text
 Find Similar PIRP
 Find Opposing PIRP
 Find Parent
@@ -1149,7 +1149,7 @@ Search produces candidates.
 
 Localization determines relevance to the current runtime.
 
-```text id="91b9zk"
+```text
 Search
   |
   v
@@ -1172,7 +1172,7 @@ Relay Localization then asks where the PIRP itself should go next.
 
 Every relay produces:
 
-```text id="kkzmrt"
+```text
 PIRP
 +
 Receiver
@@ -1192,7 +1192,7 @@ These events accumulate into the Relay CallingGraph.
 
 ## 57. Relay Graph
 
-```text id="gq0xwb"
+```text
 PIRP-A
   |
   v
@@ -1216,7 +1216,7 @@ With context attached, this graph records how Collective Intelligence actually e
 
 The Relay Graph can reveal:
 
-```text id="hwjm6s"
+```text
 successful capability matches
 failed localizations
 cross-domain transfers
@@ -1234,7 +1234,7 @@ This improves future dispatch.
 
 The closed loop is:
 
-```text id="c5krpv"
+```text
 Relay
   |
   v
@@ -1263,7 +1263,7 @@ Thus the ecology gradually improves its own ability to allocate intelligence.
 
 Suppose:
 
-```text id="t09kfe"
+```text
 PIRP-A = Search Method
 PIRP-B = Counter-Evidence Method
 PIRP-C = Policy Method
@@ -1271,7 +1271,7 @@ PIRP-C = Policy Method
 
 They may compose into:
 
-```text id="m44m31"
+```text
 Composite PIRP-D
  =
 Search
@@ -1291,7 +1291,7 @@ Composition is not merely assembly.
 
 The resulting structure may create:
 
-```text id="54pylk"
+```text
 new behavior
 new state
 new interface
@@ -1308,7 +1308,7 @@ Therefore the composite itself becomes a new PIRP.
 
 Mature PIRUs can support more controlled composition.
 
-```text id="8hm1lg"
+```text
 PIRU-A
    \
     +----> Composite PIRU-C
@@ -1324,7 +1324,7 @@ Explicit interfaces and policies make this safer and more reusable.
 
 The ecology should preserve both:
 
-```text id="y97t6x"
+```text
 PIRP
  |
  +---- openness
@@ -1350,7 +1350,7 @@ A healthy ecology requires movement between them.
 
 A mature PIRP ecosystem may continuously generate:
 
-```text id="qlajg8"
+```text
 new PIRPs
 new PIRUs
 new relations
@@ -1371,7 +1371,7 @@ Growth is not restricted to one frontier.
 
 It may occur:
 
-```text id="5t7uvr"
+```text
 inside a PIRP
 between PIRPs
 inside a composite
@@ -1390,7 +1390,7 @@ Thus the ecology contains many potential growth points.
 
 An open PIRP ecology should naturally support:
 
-```text id="y3wmsr"
+```text
 new plugins
 new interfaces
 new search methods
@@ -1426,7 +1426,7 @@ This leads to a Level 0–7 roadmap.
 
 ### Existing State
 
-```text id="oq8wmz"
+```text
 Papers
 GitHub
 Issues
@@ -1443,7 +1443,7 @@ PIRPs exist implicitly.
 
 ### Missing
 
-```text id="rj9vgh"
+```text
 Explicit PIRP Identity
 Machine-Readable Structure
 Relay Context
@@ -1459,7 +1459,7 @@ This is where the ecosystem already begins.
 
 Add a lightweight PIRP description:
 
-```text id="m2qpyx"
+```text
 PIRP-ID
 Title
 Problem
@@ -1477,7 +1477,7 @@ Existing artifacts become explicitly recognizable as portable intelligence objec
 
 ### Key Transition
 
-```text id="0fud0j"
+```text
 Artifact
    ->
 Explicit Intelligence Object
@@ -1491,7 +1491,7 @@ This alone may create substantial value.
 
 AI reads existing artifacts and extracts candidate PIRPs.
 
-```text id="7odlnk"
+```text
 Paper / Issue / Repo
         |
         v
@@ -1503,7 +1503,7 @@ Structured PIRP
 
 AI can identify:
 
-```text id="vbfdgc"
+```text
 problem
 known
 unknown
@@ -1515,7 +1515,7 @@ open ends
 
 ### Key Transition
 
-```text id="6y7zoh"
+```text
 Human-Only Structuring
         ->
 Machine-Assisted Structuring
@@ -1529,7 +1529,7 @@ This reduces adoption cost.
 
 AI begins matching PIRPs to:
 
-```text id="3uax9s"
+```text 
 Knowledge
 Agents
 Tools
@@ -1545,7 +1545,7 @@ Human pickup may remain voluntary.
 
 ### Key Transition
 
-```text id="gvlb0h"
+```text
 Passive Publication
        ->
 Active Intelligence Routing
@@ -1559,7 +1559,7 @@ This is a major step.
 
 The system records:
 
-```text id="5vbtfo"
+```text
 who picked up what
 under which context
 through which perspective
@@ -1571,7 +1571,7 @@ The Relay CallingGraph begins to grow.
 
 ### Key Transition
 
-```text id="mjlvw2"
+```text
 Knowledge Memory
        ->
 Growth-History Memory
@@ -1589,7 +1589,7 @@ The system can now learn from collaboration itself.
 
 AI begins detecting unresolved structures.
 
-```text id="sxj4cw"
+```text
 Observation
     |
     v
@@ -1601,7 +1601,7 @@ Open PIRP
 
 AI may create:
 
-```text id="ghr54p"
+```text
 Known
 Unknown
 Gap
@@ -1614,7 +1614,7 @@ Validation Conditions
 
 ### Key Transition
 
-```text id="8nkgf2"
+```text
 AI Answers Problems
        ->
 AI Also Formulates Problems
@@ -1628,7 +1628,7 @@ This significantly expands AI's role in research.
 
 The system begins composing reusable intelligence.
 
-```text id="p6u0u5"
+```text
 PIRP-A
 +
 PIRP-B
@@ -1641,7 +1641,7 @@ Composite Intelligence
 
 Composition may be:
 
-```text id="wajq0l"
+```text
 human-designed
 AI-assisted
 runtime-generated
@@ -1650,7 +1650,7 @@ structurally discovered
 
 ### Key Transition
 
-```text id="z2w1tx"
+```text
 Reuse Individual Intelligence
           ->
 Construct Higher-Order Intelligence
@@ -1662,7 +1662,7 @@ Construct Higher-Order Intelligence
 
 At Level 7, the system continuously performs:
 
-```text id="ev0gmy"
+```text
 Observe
  |
  v
@@ -1702,7 +1702,7 @@ The ecology itself becomes a growth-capable intelligence system.
 
 ### Key Transition
 
-```text id="th30oq"
+```text
 AI Using Knowledge
        ->
 AI Participating in
@@ -1717,7 +1717,7 @@ This is Computational Growth Intelligence at ecosystem scale.
 
 ## 76. Level 0–7 Summary
 
-```text id="yln3xh"
+```text
 Level 0
 Existing Internet / GitHub / Papers / Q&A
 Implicit PIRPs
@@ -1763,7 +1763,7 @@ No single transition requires the entire final ecosystem to exist.
 
 Existing systems already support:
 
-```text id="65e1c9"
+```text
 publish
 search
 link
@@ -1783,7 +1783,7 @@ PIRP/PIRU primarily adds semantic structure.
 
 A first implementation may require only:
 
-```text id="7gykzy"
+```text
 PIRP-ID
 Problem
 Known
@@ -1806,7 +1806,7 @@ The intelligence architecture can evolve later.
 
 PIRP metadata can initially point to existing:
 
-```text id="c0v0xi"
+```text
 GitHub repositories
 DOIs
 papers
@@ -1827,7 +1827,7 @@ Humans are unlikely to manually produce perfect PIRP metadata for every artifact
 
 AI can assist by:
 
-```text id="u07kmz"
+```text
 extracting
 normalizing
 suggesting
@@ -1847,7 +1847,7 @@ Thus the PIRP layer does not require a large new manual burden.
 
 Traditional AI usage:
 
-```text id="5sf8sw"
+```text
 Human
   |
   v
@@ -1859,7 +1859,7 @@ Answer
 
 PIRP ecology:
 
-```text id="6tbqau"
+```text
 Human
 AI
 Tool
@@ -1880,7 +1880,7 @@ First-class participation does not imply centralized authority.
 
 AI may:
 
-```text id="m49c81"
+```text
 propose
 search
 match
@@ -1891,7 +1891,7 @@ relay
 
 while policies determine:
 
-```text id="7j1l8m"
+```text
 what may execute
 what may publish
 what may modify
@@ -1906,7 +1906,7 @@ This preserves governance.
 
 A particularly low-friction mode is:
 
-```text id="7y66jg"
+```text
 Open PIRP
     |
     v
@@ -1930,7 +1930,7 @@ They only need to contribute useful Structural Delta.
 
 Collective Learning can now be represented as:
 
-```text id="h83mk8"
+```text
 Create
   |
   v
@@ -1960,7 +1960,7 @@ Portable intelligence flows through the system.
 
 Each event adds:
 
-```text id="a4e66n"
+```text
 PIRP
 Relation
 Relay
@@ -1977,7 +1977,7 @@ The Collective Intelligence CallingGraph grows.
 
 The system also learns:
 
-```text id="7a1vvk"
+```text
 who extends what
 which perspectives transfer
 which tools help
@@ -1987,7 +1987,7 @@ which contexts matter
 
 Therefore Collective Learning has at least two outputs:
 
-```text id="qix3hd"
+```text
 Knowledge Growth
       +
 Relay Intelligence Growth
@@ -1999,7 +1999,7 @@ Relay Intelligence Growth
 
 Repeated relay outcomes reveal:
 
-```text id="z9n9xe"
+```text
 hidden expertise
 cross-domain capability
 unexpected tool combinations
@@ -2016,7 +2016,7 @@ The ecology becomes increasingly aware of its own distributed capabilities.
 
 A model-centric ecosystem asks:
 
-```text id="h2iz8w"
+```text
 Which model is strongest?
 
 Which model contains the knowledge?
@@ -2032,7 +2032,7 @@ This is useful but incomplete.
 
 A PIRP/PIRU ecology asks:
 
-```text id="o5s3iw"
+```text
 Which intelligence piece is needed?
 
 Where does it exist?
@@ -2052,7 +2052,7 @@ The focus shifts from owning one giant intelligence to coordinating many bounded
 
 In this view:
 
-```text id="v8db01"
+```text
 LLM
 Specialized Model
 Human
@@ -2076,7 +2076,7 @@ Different PIRPs may require different controls.
 
 Examples include:
 
-```text id="u6swbc"
+```text
 public
 private
 organization-only
@@ -2094,7 +2094,7 @@ Policy should travel with the PIRP when necessary.
 
 Before relay:
 
-```text id="97z6be"
+```text
 Candidate Target
       |
       v
@@ -2107,7 +2107,7 @@ Allow  Reject
 
 This separates:
 
-```text id="c5zmlq"
+```text
 Can receive
      vs
 May receive
@@ -2121,7 +2121,7 @@ Capability and permission remain distinct.
 
 Similarly:
 
-```text id="1czt9g"
+```text
 Growth Proposal
       |
       v
@@ -2146,7 +2146,7 @@ Formalization inevitably leaves unexplained structure.
 
 A PIRP/PIRU ecology should preserve:
 
-```text id="fs31y3"
+```text
 leftovers
 anomalies
 unresolved relations
@@ -2162,7 +2162,7 @@ These may later become growth points.
 
 A useful transition is:
 
-```text id="qxxh0p"
+```text
 Formalization
      |
      +---- PIRU
@@ -2181,7 +2181,7 @@ Nothing meaningful needs to disappear merely because it does not fit the current
 
 An Open End can be represented as:
 
-```text id="j6n1zm"
+```text
 Current Intelligence
         |
         v
@@ -2201,7 +2201,7 @@ Thus Open-Ended Growth becomes explicit.
 
 Traditional runtime:
 
-```text id="hzytqx"
+```text
 Program
   |
   v
@@ -2210,7 +2210,7 @@ Machine
 
 PIRP ecology suggests:
 
-```text id="3k2smb"
+```text
 Portable Intelligence
         |
         v
@@ -2225,13 +2225,13 @@ The runtime becomes distributed across heterogeneous intelligence.
 
 One PIRP may execute in:
 
-```text id="rx8ltj"
+```text
 milliseconds
 ```
 
 Another may require:
 
-```text id="f2vxep"
+```text
 hours
 days
 months
@@ -2250,7 +2250,7 @@ It can describe continued intelligence activity over longer temporal scales.
 
 Eventually the ecosystem may generate PIRPs about:
 
-```text id="vfr2dm"
+```text
 better PIRP schemas
 better localization
 better relay
@@ -2261,7 +2261,7 @@ better composition
 
 Thus:
 
-```text id="k5q1r3"
+```text
 PIRP Ecology
       |
       v
@@ -2279,7 +2279,7 @@ This is a recursive growth mechanism.
 
 ## 100. PIRP/PIRU Ecology Grand Map
 
-```text id="sptz7n"
+```text
                      REALITY / RUNTIME
                             |
                             v
@@ -2411,7 +2411,7 @@ This is the initial canonical map of the PIRP/PIRU ecology.
 
 Priority topics include:
 
-```text id="0oua4g"
+```text
 PIRP Metadata Schema
 Open PIRP Schema
 Relay Context Schema
@@ -2427,7 +2427,7 @@ Continuation Cost
 
 Possible prototypes include:
 
-```text id="p7ufat"
+```text
 PIRP Registry
 AI PIRP Extractor
 Open-PIRP Extractor
@@ -2442,7 +2442,7 @@ These can be built independently.
 
 ## 113. Mid-Term Research
 
-```text id="smm0tf"
+```text
 Structural Comparative Advantage
 Relay Distance
 Expected Structural Growth
@@ -2456,7 +2456,7 @@ Growth Metrics
 
 ## 114. Mid-Term Engineering
 
-```text id="yb2upk"
+```text
 Relay Graph
 PIRP Dispatch Plane
 Counter-Evidence Search
@@ -2469,7 +2469,7 @@ Policy-Governed Dispatch
 
 ## 115. Long-Term Research
 
-```text id="g85e7p"
+```text
 AI-Generated Open PIRPs
 Self-Improving Relay
 Dynamic PIRU Formation
@@ -2482,7 +2482,7 @@ Computational Growth Localization
 
 ## 116. Long-Term Engineering
 
-```text id="0sf3cp"
+```text
 Distributed PIRP Commons
 Human-AI Relay Runtime
 Composable PIRU Runtime
@@ -2562,7 +2562,7 @@ These questions define a broad research frontier.
 
 Portable Intelligence Runtime Pieces and Units provide a possible bridge between:
 
-```text id="6g0myi"
+```text
 Runtime Intelligence
         |
         v
@@ -2587,7 +2587,7 @@ Much of the substrate already exists.
 
 Today we already have:
 
-```text id="vn3kxw"
+```text
 papers
 repositories
 issues
@@ -2604,7 +2604,7 @@ These are full of implicit PIRPs.
 
 The primary transition is to make:
 
-```text id="aov4fe"
+```text
 Portable Intelligence Pieces
 +
 Context
@@ -2622,7 +2622,7 @@ explicit and machine-operable.
 
 AI can then participate initially not as an omniscient solver, but as:
 
-```text id="5gzx2f"
+```text
 Extractor
 Structurer
 Matcher
@@ -2635,7 +2635,7 @@ From there, the ecology can evolve.
 
 The evolutionary path is:
 
-```text id="y4otbd"
+```text
 Level 0
 Implicit PIRPs
         |
@@ -2696,7 +2696,7 @@ This leads to the larger research hypothesis of the PIRP/PIRU framework:
 
 And the resulting ecology may evolve almost incrementally:
 
-```text id="x4y55z"
+```text
 Existing Collaboration
         |
         v

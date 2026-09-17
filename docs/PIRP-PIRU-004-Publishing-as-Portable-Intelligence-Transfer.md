@@ -45,7 +45,7 @@ The word **portable** has a long engineering history.
 
 Typical meanings include:
 
-```text id="6k4d8m"
+```text
 Machine A -> Machine B
 OS A      -> OS B
 Runtime A -> Runtime B
@@ -60,7 +60,7 @@ Suppose a researcher develops a useful structural insight.
 
 The insight exists initially inside a local intelligence context:
 
-```text id="i7sxtp"
+```text
 Human / AI / Team
         |
         v
@@ -71,7 +71,7 @@ If the intelligence remains only there, its growth is limited by the original pr
 
 Publishing changes this:
 
-```text id="b1stfm"
+```text
 Local Intelligence
         |
         v
@@ -111,7 +111,7 @@ This gives portability a first major function:
 
 Publishing allows intelligence to move from:
 
-```text id="b3of60"
+```text
 private
     ->
 shared
@@ -143,7 +143,7 @@ It changes the computational future of other intelligences.
 
 Traditional publishing can be modeled as:
 
-```text id="ycc96q"
+```text
 Author
   |
   v
@@ -155,7 +155,7 @@ Reader
 
 The PIRP/PIRU perspective suggests a richer model:
 
-```text id="a5wh46"
+```text
 Source Intelligence
         |
         | externalize
@@ -204,7 +204,7 @@ Not every information transfer is necessarily intelligence transfer.
 
 Consider:
 
-```text id="a4ucy5"
+```text
 Sender
   |
   v
@@ -218,7 +218,7 @@ The data may be useful, but its significance may not be directly preserved.
 
 A stronger portable intelligence object may carry:
 
-```text id="8py58v"
+```text
 Problem
 Context
 Structure
@@ -255,7 +255,7 @@ Portable Intelligence requires a broader test.
 
 This test contains several stages:
 
-```text id="2yym60"
+```text
 Receive
    |
    v
@@ -294,7 +294,7 @@ Portability is therefore a structural property, not merely a file-format propert
 
 A useful preliminary hierarchy is:
 
-```text id="0ev0ai"
+```text
 Computational Portability
           |
           v
@@ -319,7 +319,7 @@ The narrowest level is conventional.
 
 A PIRU may move across:
 
-```text id="9pzqt9"
+```text
 machines
 processes
 nodes
@@ -347,7 +347,7 @@ A PIRP may be useful outside its original context.
 
 For example:
 
-```text id="x0ircd"
+```text
 Context A
    |
    v
@@ -364,7 +364,7 @@ The key question becomes:
 
 Possible requirements include:
 
-```text id="9zqajq"
+```text
 assumptions
 definitions
 historical state
@@ -385,7 +385,7 @@ A more significant transition occurs when intelligence moves between intelligenc
 
 Examples include:
 
-```text id="axmbnv"
+```text
 Human -> Human
 Human -> AI
 AI    -> Human
@@ -417,7 +417,7 @@ The broadest form is portability across generations.
 
 Examples include:
 
-```text id="x3x3ms"
+```text
 books
 mathematical notation
 scientific papers
@@ -435,7 +435,7 @@ This is one of the foundations of cumulative civilization.
 
 From the PIRP/PIRU perspective, civilization itself can be partially understood as a long-running process of:
 
-```text id="e1z26j"
+```text
 Externalize
     |
     v
@@ -471,7 +471,7 @@ Before intelligence can be transferred, it must become external enough to surviv
 
 Consider:
 
-```text id="5rf82y"
+```text
 Internal Insight
       |
       v
@@ -502,7 +502,7 @@ It preserves enough of the intelligence structure that another intelligence can 
 
 Publishing can therefore be understood as a boundary operation:
 
-```text id="otvyo6"
+```text
 +---------------------+
 | Local Intelligence  |
 |                     |
@@ -537,7 +537,7 @@ Many existing artifacts can be interpreted as candidate PIRPs.
 
 Examples include:
 
-```text id="lxgktp"
+```text
 Paper
 DOI Repository
 GitHub Repository
@@ -561,7 +561,7 @@ A poor artifact may contain only a result.
 
 A stronger artifact may contain:
 
-```text id="7m48ad"
+```text
 Why the problem matters
 What was known
 What was unknown
@@ -584,7 +584,7 @@ A DOI repository can itself function as a large portable intelligence object.
 
 Conceptually:
 
-```text id="omypax"
+```text
 DOI Repository
  |
  +---- Problem Definition
@@ -631,7 +631,7 @@ A repository may also contain both PIRPs and PIRUs internally.
 
 A PIRP may be:
 
-```text id="5c4y9a"
+```text
 one trigger
 one structural relation
 one algorithm
@@ -645,7 +645,7 @@ The important criterion is not physical size.
 
 It is whether the intelligence has enough coherence to support:
 
-```text id="x0k1y3"
+```text
 identity
 transfer
 localization
@@ -665,7 +665,7 @@ Thus:
 
 Suppose Agent A possesses local Known-Knowledge:
 
-```text id="78m2ct"
+```text
 Known-Knowledge_A
 ```
 
@@ -675,19 +675,19 @@ Agent B discovers it.
 
 Before localization:
 
-```text id="mld1bf"
+```text
 Known-Knowledge_B
 ```
 
 After successful localization:
 
-```text id="jyk4dg"
+```text
 Known-Knowledge_B'
 ```
 
 where:
 
-```text id="31dyl5"
+```text
 Known-Knowledge_B'
 =
 Known-Knowledge_B
@@ -727,7 +727,7 @@ A published PIRP may remain unused because:
 
 Therefore:
 
-```text id="79qsl7"
+```text
 Publish
    !=
 Successful Transfer
@@ -735,7 +735,7 @@ Successful Transfer
 
 A more complete pipeline is:
 
-```text id="nsgoxx"
+```text
 Publish
    |
    v
@@ -768,7 +768,7 @@ This is a Structural Search problem.
 
 The system may need to search by:
 
-```text id="vpcw2x"
+```text
 problem structure
 context
 metric similarity
@@ -804,7 +804,7 @@ This becomes especially important for Open PIRPs.
 
 The future pipeline may be:
 
-```text id="p2ryi6"
+```text
 PIRP
  |
  v
@@ -832,7 +832,7 @@ A useful conceptual shift is:
 
 For example:
 
-```text id="qzog5q"
+```text
 Local Runtime
      |
      v
@@ -877,7 +877,7 @@ Collective Learning is often described broadly as many participants sharing know
 
 PIRP/PIRU provides a more concrete mechanism.
 
-```text id="v17v1v"
+```text
 Human-A
    |
    v
@@ -895,7 +895,7 @@ Public Intelligence Space
 
 Each receiver may produce descendants:
 
-```text id="u1y6kq"
+```text
 PIRP-A
   |
   +----> PIRP-B
@@ -923,7 +923,7 @@ The word **medium** is preferable to a purely economic interpretation.
 
 PIRPs can carry:
 
-```text id="b8jv0y"
+```text
 knowledge
 problems
 methods
@@ -942,13 +942,13 @@ This is important.
 
 Collective Intelligence does not necessarily require:
 
-```text id="c0ic2k"
+```text
 One Giant Shared Brain
 ```
 
 It may instead emerge through:
 
-```text id="qcc61p"
+```text
 Many Local Intelligences
           +
 Portable Intelligence Pieces
@@ -978,7 +978,7 @@ A PIRP may be much lighter.
 
 For example:
 
-```text id="h82t9w"
+```text
 Problem
 +
 Structural Insight
@@ -1006,7 +1006,7 @@ PIRP/PIRU suggests that unresolved intelligence can also be valuable.
 
 A well-formed open problem may preserve:
 
-```text id="qgwkva"
+```text
 Known
 Unknown
 Structural Gap
@@ -1040,7 +1040,7 @@ Failed attempts are another under-published form of intelligence.
 
 Suppose:
 
-```text id="ckw4hc"
+```text
 Problem P
 +
 Method M
@@ -1058,13 +1058,13 @@ If published as a PIRP, it becomes reusable negative knowledge.
 
 The receiver can begin from:
 
-```text id="mg78zp"
+```text
 Do not repeat M under C
 ```
 
 or ask:
 
-```text id="u03k7b"
+```text
 Why did M fail under C?
 ```
 
@@ -1080,7 +1080,7 @@ A PIRP ecosystem should not consist only of affirmative claims.
 
 It should support:
 
-```text id="83kbws"
+```text
 Claim PIRP
       |
       +---- Supporting Evidence PIRP
@@ -1102,7 +1102,7 @@ The quality of a publication can be evaluated partly by its portability.
 
 A highly portable research artifact makes it easier for another intelligence to answer:
 
-```text id="07bslp"
+```text
 What is the problem?
 
 What is already known?
@@ -1142,7 +1142,7 @@ Continuation Cost is the effort required for another intelligence to reach the f
 
 A poorly externalized artifact may have high continuation cost:
 
-```text id="2o9o1u"
+```text
 Result
  |
  +---- missing assumptions
@@ -1154,7 +1154,7 @@ Result
 
 A well-structured PIRP may lower it:
 
-```text id="42w3u5"
+```text
 Problem
  |
  +---- Context
@@ -1179,13 +1179,13 @@ Some intelligence is inherently contextual.
 
 The goal is not:
 
-```text id="qgb2ji"
+```text
 Remove all context
 ```
 
 The goal is:
 
-```text id="oply3q"
+```text
 Identify
    |
    v
@@ -1202,7 +1202,7 @@ Portable intelligence evolves.
 
 Therefore publication should preserve version relationships.
 
-```text id="yyz49k"
+```text
 PIRP-X v1
    |
    v
@@ -1229,7 +1229,7 @@ This history is itself useful intelligence.
 
 Lineage extends versioning beyond one artifact.
 
-```text id="4pyzqn"
+```text
 PIRP-A
   |
   | inspired
@@ -1251,7 +1251,7 @@ Traditional citation systems capture part of this relationship.
 
 But PIRP lineage may eventually represent richer semantics:
 
-```text id="yjd9sm"
+```text
 derived-from
 contradicts
 specializes
@@ -1272,7 +1272,7 @@ This transforms publication history into a structural intelligence graph.
 
 Traditional scholarly systems often produce citation graphs:
 
-```text id="t1yg6q"
+```text
 Paper A -> Paper B
 ```
 
@@ -1286,7 +1286,7 @@ But citation alone does not tell us:
 
 A richer model is:
 
-```text id="hqt32s"
+```text
 PIRP-A
    |
    | structural idea
@@ -1312,7 +1312,7 @@ Publication is one mechanism through which this graph grows.
 
 The canonical publication loop can be summarized as:
 
-```text id="68wh6s"
+```text
 Local Intelligence
         |
         v
@@ -1361,7 +1361,7 @@ The previous structure suggests a stronger interpretation.
 
 Instead of treating publication as an external social activity, a future intelligence runtime may treat:
 
-```text id="swl58j"
+```text
 publish(PIRP)
 ```
 
@@ -1385,7 +1385,7 @@ Publication then becomes part of computational architecture.
 
 AI can participate at multiple points.
 
-```text id="mjxjze"
+```text
 Human / AI produces intelligence
             |
             v
@@ -1408,7 +1408,7 @@ AI does not need full autonomous authority.
 
 It can begin as:
 
-```text id="phndqe"
+```text
 Extractor
 Structurer
 Indexer
@@ -1428,7 +1428,7 @@ Much of the required substrate already exists.
 
 Examples include:
 
-```text id="av8efc"
+```text
 Git repositories
 Issue trackers
 DOI systems
@@ -1443,7 +1443,7 @@ Version-control histories
 
 These systems already support portions of:
 
-```text id="qrdc5f"
+```text
 create
 publish
 discover
@@ -1460,7 +1460,7 @@ It is explicit intelligence structure.
 
 That is:
 
-```text id="1nd15d"
+```text
 Artifact
    +
 PIRP Identity
@@ -1488,7 +1488,7 @@ Future systems may explicitly publish intelligence structures.
 
 The transition can be represented as:
 
-```text id="9lgwka"
+```text
 File
  |
  v
@@ -1516,7 +1516,7 @@ The important change is semantic:
 
 A future PIRP publication might include metadata such as:
 
-```text id="krn8nc"
+```text
 PIRP-ID
 
 Title
@@ -1564,7 +1564,7 @@ It may persist.
 
 This creates Collective Memory.
 
-```text id="37oqmw"
+```text
 Intelligence Event
       |
       v
@@ -1597,7 +1597,7 @@ A repository can contain millions of artifacts without producing useful intellig
 
 Collective Learning requires:
 
-```text id="jsz80p"
+```text
 Memory
   +
 Discovery
@@ -1625,7 +1625,7 @@ The resulting system does not require one centralized super-intelligence.
 
 Instead:
 
-```text id="izjdfp"
+```text
 Human-A       AI-B       Team-C
    |            |           |
    v            v           v
@@ -1657,7 +1657,7 @@ Collective Intelligence emerges from distributed contribution and structured tra
 
 Without publication:
 
-```text id="a4z8c3"
+```text
 Intelligence A
      |
      v
@@ -1666,7 +1666,7 @@ Local Growth
 
 With publication:
 
-```text id="wz1xd1"
+```text
                  PIRP-A
                /   |   \
               /    |    \
@@ -1693,7 +1693,7 @@ A PIRP-oriented publication should make open interfaces visible.
 
 Examples:
 
-```text id="dlth5j"
+```text
 Open Question
 Missing Evidence
 Unresolved Branch
@@ -1722,7 +1722,7 @@ PIRP publishing suggests another interpretation:
 
 A publication can mean:
 
-```text id="z1ezdw"
+```text
 This is what is currently known.
 
 This is the structure we currently have.
@@ -1762,7 +1762,7 @@ Preserve meaningful structural deltas and lineage when extending the PIRP.
 
 Together:
 
-```text id="04xvd1"
+```text
 Produce
   |
   v
@@ -1889,13 +1889,13 @@ Portable Intelligence changes the meaning of portability.
 
 The central boundary is no longer only:
 
-```text id="b4o4l7"
+```text
 Machine A -> Machine B
 ```
 
 It can also be:
 
-```text id="stjsbt"
+```text
 Intelligence A -> Intelligence B
 ```
 
@@ -1909,7 +1909,7 @@ This transforms publishing from a terminal communication event into part of a co
 
 The central loop becomes:
 
-```text id="pfgkqw"
+```text
 Local Intelligence
         |
         v

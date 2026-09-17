@@ -73,7 +73,7 @@ Structural Growth
 
 This lifecycle contains a transition that deserves independent attention:
 
-```text id="d9zly5"
+```text
 PIRP
  |
  | transfer
@@ -95,7 +95,7 @@ Another intelligence continues from the current frontier.
 
 A simple transfer can be represented as:
 
-```text id="x7ih63"
+```text
 Agent-A
    |
    v
@@ -117,7 +117,7 @@ What changed?
 
 A richer representation is:
 
-```text id="zvt8fe"
+```text
 PIRP-X
    |
    | Relay
@@ -151,7 +151,7 @@ We define:
 
 A preliminary Relay Context may include:
 
-```text id="f27cqe"
+```text
 Source PIRP
 Source Intelligence
 Receiving Intelligence
@@ -182,7 +182,7 @@ Provenance typically answers:
 
 For example:
 
-```text id="3r21dq"
+```text
 PIRP-C
  |
  +---- derived from PIRP-B
@@ -204,7 +204,7 @@ But Relay Context asks additional questions:
 
 Thus:
 
-```text id="szbgzq"
+```text
 Provenance:
 Where did it come from?
 
@@ -221,7 +221,7 @@ The two structures are complementary.
 
 A canonical relay can be represented as:
 
-```text id="xqkq6p"
+```text
 Source Intelligence
         |
         v
@@ -264,7 +264,7 @@ The receiving intelligence does not need to be human.
 
 It may be:
 
-```text id="ok4lh3"
+```text
 Human
 LLM
 Specialized Model
@@ -291,7 +291,7 @@ The relevant question is:
 
 Likewise, a PIRP may originate from:
 
-```text id="u1sgzx"
+```text
 Human insight
 AI inference
 Runtime anomaly
@@ -317,7 +317,7 @@ One important Relay Context field is:
 
 Possible reasons include:
 
-```text id="blgzm2"
+```text
 structural similarity
 domain relevance
 known contradiction
@@ -341,7 +341,7 @@ Two equally capable intelligences may approach the same PIRP differently.
 
 For example:
 
-```text id="t5c86s"
+```text
 PIRP-X
  |
  +----> Agent-A -> Graph Perspective
@@ -367,7 +367,7 @@ It is a perspective imported from elsewhere.
 
 Suppose:
 
-```text id="rx9l6u"
+```text
 Domain-A Problem
       |
       v
@@ -394,7 +394,7 @@ Relay Context should also preserve the capability that made the continuation pos
 
 For example:
 
-```text id="8qjx7m"
+```text
 Agent-B
  |
  +---- formal proof
@@ -405,13 +405,13 @@ Agent-B
 
 The useful relationship is not:
 
-```text id="6s8u38"
+```text
 Agent-B is good.
 ```
 
 It is:
 
-```text id="r8jz3u"
+```text
 Under Context C,
 for PIRP Type X,
 Capability K of Agent-B
@@ -434,7 +434,7 @@ Instead it is relational and contextual.
 
 Conceptually:
 
-```text id="81d64r"
+```text
 PIRP Structure
       +
 Context
@@ -459,7 +459,7 @@ A relay may transform the PIRP.
 
 Possible transformations include:
 
-```text id="5r5u2x"
+```text
 specialization
 generalization
 translation
@@ -482,7 +482,7 @@ The most important output of a relay is often the **Structural Delta**.
 
 Examples include:
 
-```text id="eow4yd"
+```text
 new relation
 new branch
 new evidence
@@ -503,7 +503,7 @@ A relay can therefore be evaluated not merely by whether the receiver participat
 
 A relay may have several outcomes.
 
-```text id="5c3lfz"
+```text
 Successful Extension
 Partial Extension
 Useful Failure
@@ -529,13 +529,13 @@ Traditional knowledge systems often represent relations among documents.
 
 For example:
 
-```text id="u8nshh"
+```text
 Paper-A -> cites -> Paper-B
 ```
 
 PIRP/PIRU allows a richer graph.
 
-```text id="jbm1qy"
+```text
 PIRP-A
  |
  +---- extends ----> PIRP-B
@@ -563,7 +563,7 @@ A Knowledge CallingGraph answers:
 
 Possible edge types include:
 
-```text id="y4ag51"
+```text
 derived-from
 depends-on
 extends
@@ -584,7 +584,7 @@ The graph describes structural relationships among intelligence objects.
 
 ## 18. Example Knowledge CallingGraph
 
-```text id="6f9jn8"
+```text
              PIRP-A
              /    \
             /      \
@@ -617,7 +617,7 @@ We define:
 
 Its nodes may include:
 
-```text id="5plj51"
+```text
 PIRPs
 PIRUs
 Humans
@@ -633,7 +633,7 @@ Its edges represent structured relay events.
 
 ## 20. Example Relay CallingGraph
 
-```text id="92rybh"
+```text
 PIRP-X
   |
   | Relay-1
@@ -661,7 +661,7 @@ The relay history becomes a computational trajectory.
 
 One PIRP may be relayed to multiple intelligences.
 
-```text id="dqs6j3"
+```text
                 PIRP-X
               /    |    \
              /     |     \
@@ -689,7 +689,7 @@ The graph preserves diversity rather than forcing premature convergence.
 
 A relay can create branches.
 
-```text id="kqf5ph"
+```text 
 PIRP-X
   |
   v
@@ -709,7 +709,7 @@ Thus relay can cause structural decomposition.
 
 The reverse can also occur.
 
-```text id="w3l37x"
+```text
 PIRP-A ----\
             \
              > Agent-X -> PIRP-C
@@ -727,7 +727,7 @@ Relay therefore can create composition.
 
 Long-running research may form relay chains:
 
-```text id="1k3f4q"
+```text
 Human-A
    |
  PIRP-1
@@ -757,7 +757,7 @@ A major consequence follows.
 
 If a relay edge contains:
 
-```text id="3h27tu"
+```text 
 Source
 Receiver
 Context
@@ -782,7 +782,7 @@ This creates recursive structure.
 
 The graph can be interpreted recursively:
 
-```text id="ymssas"
+```text
 Node      = PIRP
 Edge      = PIRP
 Subgraph  = PIRP
@@ -795,7 +795,7 @@ It means each can potentially be treated as a bounded portable intelligence stru
 
 For example:
 
-```text id="7rfj4e"
+```text
 Relay Edge PIRP
  |
  +---- Source PIRP
@@ -815,20 +815,20 @@ This recursive property is important.
 
 A PIRP may represent:
 
-```text id="0q6vli"
+```text
 an algorithm
 ```
 
 Another PIRP may represent:
 
-```text id="w8d4j8"
+```text
 the relation between that algorithm
 and a particular problem class
 ```
 
 Another may represent:
 
-```text id="6p5wcx"
+```text
 how a human discovered that relation
 through transfer from another domain
 ```
@@ -859,7 +859,7 @@ The Relay CallingGraph answers:
 
 Together:
 
-```text id="5hj5qs"
+```text
 Knowledge CallingGraph
           +
 Relay CallingGraph
@@ -882,7 +882,7 @@ This graph contains both knowledge structure and growth history.
 
 A canonical event can be represented as:
 
-```text id="kk0e19"
+```text
 Intelligence A
       |
       v
@@ -909,7 +909,7 @@ Intelligence F
 
 This sequence contains much more information than:
 
-```text id="bzb8f0"
+```text
 A cites F
 ```
 
@@ -925,7 +925,7 @@ Repeated events produce:
 
 This history records:
 
-```text id="e30j1e"
+```text
 what existed
 who received it
 why they received it
@@ -945,13 +945,13 @@ This history can itself be folded into reusable intelligence.
 
 Known-Knowledge is often modeled as a current state:
 
-```text id="esj4mx"
+```text
 Known-Knowledge(t)
 ```
 
 Relay history suggests a richer model:
 
-```text id="s2v79v"
+```text
 Known-Knowledge
 +
 Origin
@@ -977,7 +977,7 @@ It becomes a trajectory.
 
 A Knowledge Trajectory may look like:
 
-```text id="9uxs9r"
+```text
 PIRP-A
   |
   | Agent-B / Perspective-X
@@ -1011,7 +1011,7 @@ This can improve:
 
 Suppose the system observes:
 
-```text id="m1uew9"
+```text
 PIRP Signature
       +
 Agent Capability Signature
@@ -1036,7 +1036,7 @@ Therefore:
 
 Suppose repeated history shows:
 
-```text id="h8yrqw"
+```text
 PIRP Type X
 +
 Context C
@@ -1061,7 +1061,7 @@ Failures are equally useful.
 
 Suppose:
 
-```text id="id47g5"
+```text
 PIRP Type X
 +
 Agent Type Y
@@ -1084,13 +1084,13 @@ Thus relay failure becomes Counter-Evidence for future dispatch.
 
 Instead of manually declaring:
 
-```text id="l0o6us"
+```text
 Agent-A is expert in X.
 ```
 
 the system can observe:
 
-```text id="kngdfd"
+```text
 Across PIRPs structurally similar to X,
 under contexts C1, C2, C3,
 Agent-A repeatedly produced useful Structural Deltas.
@@ -1108,7 +1108,7 @@ An agent may repeatedly succeed on PIRPs outside its nominal category.
 
 For example:
 
-```text id="4rr61k"
+```text
 Official Domain: A
 
 Observed Relay Success:
@@ -1119,7 +1119,7 @@ PIRP-D
 
 Structural analysis may reveal a shared capability:
 
-```text id="jdt9zk"
+```text
 All require Pattern K.
 ```
 
@@ -1133,7 +1133,7 @@ This is another form of intelligence produced by the Relay Graph.
 
 Suppose:
 
-```text id="v98bdl"
+```text
 Domain-A PIRP
    |
    v
@@ -1146,7 +1146,7 @@ Successful Growth
 
 Repeated events may reveal:
 
-```text id="n3w81q"
+```text
 Domain-B Perspective
        |
        v
@@ -1167,7 +1167,7 @@ Relay Context can make part of it explicit.
 
 For example:
 
-```text id="yknc75"
+```text
 Source Structure S
       |
       v
@@ -1193,13 +1193,13 @@ If enough such events are preserved, the system may learn which kinds of structu
 
 A conventional knowledge base may preserve:
 
-```text id="7v8ylk"
+```text
 Final Result
 ```
 
 A Relay Graph preserves:
 
-```text id="l1w3mg"
+```text
 Final Result
 +
 Path
@@ -1225,7 +1225,7 @@ Two identical conclusions may have different histories.
 
 Path A:
 
-```text id="trpqku"
+```text
 Hypothesis
   |
   v
@@ -1234,7 +1234,7 @@ Direct Validation
 
 Path B:
 
-```text id="lbf1fp"
+```text 
 Hypothesis
   |
   v
@@ -1267,7 +1267,7 @@ Therefore the path itself should not be discarded.
 
 Relay histories can be accumulated:
 
-```text id="53ml24"
+```text
 Relay Event 1
 Relay Event 2
 Relay Event 3
@@ -1277,7 +1277,7 @@ Relay Event N
 
 Then structurally folded into patterns such as:
 
-```text id="p8mr2m"
+```text
 For PIRP Family X,
 Perspective P
 under Context C
@@ -1292,7 +1292,7 @@ Thus Relay Context becomes raw material for Structural Folding.
 
 The resulting folded structure may support future dispatch.
 
-```text id="knj60d"
+```text
 Historical Relay Graph
         |
         v
@@ -1307,7 +1307,7 @@ Future Localization
 
 This creates a closed learning loop:
 
-```text id="9p1rhv"
+```text
 Relay
   |
   v
@@ -1331,7 +1331,7 @@ The Relay Graph itself may eventually develop Per-Node Intelligence.
 
 For a given PIRP node, the system may know:
 
-```text id="yq63fy"
+```text
 who previously handled similar PIRPs
 which perspectives worked
 which tools were useful
@@ -1353,7 +1353,7 @@ This closes an important conceptual loop:
 
 A conceptual record may look like:
 
-```text id="a1btxs"
+```text
 RelayContext
 
 relayId
@@ -1391,7 +1391,7 @@ It is not yet proposed as a final implementation standard.
 
 A practical MVP may require much less:
 
-```text id="1i40kl"
+```text
 sourcePIRP
 receivingAgent
 context
@@ -1410,7 +1410,7 @@ The implementation threshold is therefore relatively low.
 
 Possible Relay CallingGraph edge types may include:
 
-```text id="mx2w6r"
+```text
 picked-up-by
 continued-by
 validated-by
@@ -1433,7 +1433,7 @@ These may eventually become typed PIRUs themselves.
 
 A naive Collective Learning model is:
 
-```text id="myh6xb"
+```text
 More Participants
       |
       v
@@ -1442,7 +1442,7 @@ More Knowledge
 
 A stronger model is:
 
-```text id="y5a3of"
+```text
 More Participants
       |
       v
@@ -1475,7 +1475,7 @@ This leads to a key proposition:
 
 The system learns:
 
-```text id="wh7i80"
+```text
 what should move
 where it should move
 who should receive it
@@ -1506,7 +1506,7 @@ The framework can be summarized using three objects.
 
 Together:
 
-```text id="l2owgk"
+```text
 PIRP
  |
  v
@@ -1530,7 +1530,7 @@ Suppose no single intelligence can solve a problem.
 
 But:
 
-```text id="56lgxn"
+```text
 Agent-A
   |
   v
@@ -1563,7 +1563,7 @@ The computation is distributed not merely across machines, but across heterogene
 
 A canonical high-level model is:
 
-```text id="dmlwp2"
+```text
              PIRP-A
             /      \
            /        \
@@ -1700,7 +1700,7 @@ What constitutes a high-quality relay?
 
 Possible dimensions include:
 
-```text id="op8p4d"
+```text
 useful structural delta
 continuation cost
 validation quality
@@ -1751,13 +1751,13 @@ Portable Intelligence creates a new class of computational history.
 
 It is not enough to preserve:
 
-```text id="v7pxi3"
+```text
 PIRP-A -> PIRP-B
 ```
 
 We increasingly want to preserve:
 
-```text id="eaz9r9"
+```text
 PIRP-A
    |
    | received by
@@ -1790,7 +1790,7 @@ That history can reveal:
 
 The result is a transition:
 
-```text id="agx3uh"
+```text
 Citation Graph
       |
       v
@@ -1813,7 +1813,7 @@ It becomes a learning event for the intelligence system itself.
 
 The system can gradually learn:
 
-```text id="8g6bmu"
+```text
 which PIRPs
 should go to
 which intelligences

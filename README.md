@@ -76,7 +76,7 @@ Runtime
  | observation / structural delta / growth
  v
 New PIRP(s)
-````
+```
 
 The two are not competing definitions.
 
