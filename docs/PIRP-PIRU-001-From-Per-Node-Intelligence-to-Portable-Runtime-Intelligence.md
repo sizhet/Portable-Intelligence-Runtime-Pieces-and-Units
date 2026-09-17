@@ -347,6 +347,10 @@ They may describe different phases of the same intelligence lifecycle.
 
 ---
 
+![Fig-001-PIRP-PIRU-Grand-Map.png](../figures/Fig-001-PIRP-PIRU-Grand-Map.png)
+
+---
+
 ## 6. PIRP and PIRU as a Duality
 
 A possible lifecycle is:

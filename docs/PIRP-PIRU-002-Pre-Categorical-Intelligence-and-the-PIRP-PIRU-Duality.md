@@ -449,6 +449,10 @@ The productive system requires both.
 
 ---
 
+![Fig-002-From-PIRP-to-PIRU-and-Back.png](../figures/Fig-002-From-PIRP-to-PIRU-and-Back.png)
+
+---
+
 ## 9. The PIRP/PIRU Lifecycle
 
 The duality becomes clearer when represented as a lifecycle.

@@ -461,6 +461,10 @@ This is Collective Learning across generations.
 
 ---
 
+![Fig-004-Portable-Intelligence-and-Collective-Learning.png](../figures/Fig-004-Portable-Intelligence-and-Collective-Learning.png)
+
+---
+
 ## 11. Publishing as Externalization
 
 Before intelligence can be transferred, it must become external enough to survive separation from its producer.

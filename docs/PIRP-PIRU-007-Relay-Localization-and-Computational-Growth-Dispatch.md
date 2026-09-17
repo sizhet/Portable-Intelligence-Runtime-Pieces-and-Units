@@ -751,6 +751,10 @@ This supports dynamic collective intelligence.
 
 ---
 
+![Fig-007-Relay-Localization-and-PIRP-Dispatch-Plane.png](../figures/Fig-007-Relay-Localization-and-PIRP-Dispatch-Plane.png)
+
+---
+
 # Part VII — PIRP Dispatch Plane
 
 ## 25. From Localization to Dispatch

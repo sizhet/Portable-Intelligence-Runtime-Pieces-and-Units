@@ -841,6 +841,10 @@ This allows higher-order structural intelligence.
 
 ---
 
+![Fig-006-Knowledge-CG-and-Relay-CG.png](../figures/Fig-006-Knowledge-CG-and-Relay-CG.png)
+
+---
+
 # Part IV — Collective Intelligence CallingGraph
 
 ## 28. Combining the Two Graphs

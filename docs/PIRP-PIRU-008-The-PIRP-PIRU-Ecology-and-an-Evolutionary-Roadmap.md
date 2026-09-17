@@ -166,6 +166,10 @@ It is defined by the movement and growth of intelligence objects.
 
 ---
 
+![Fig-001-PIRP-PIRU-Grand-Map.png](../figures/Fig-001-PIRP-PIRU-Grand-Map.png)
+
+---
+
 ## 3. The Canonical Ecology Loop
 
 The core loop is:
@@ -1574,6 +1578,10 @@ Growth-History Memory
 ```
 
 The system can now learn from collaboration itself.
+
+---
+
+![Fig-007-Relay-Localization-and-PIRP-Dispatch-Plane.png](../figures/Fig-007-Relay-Localization-and-PIRP-Dispatch-Plane.png)
 
 ---
 

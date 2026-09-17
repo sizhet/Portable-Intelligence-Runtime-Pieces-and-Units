@@ -820,6 +820,10 @@ The essential property is that PIRP identity and lifecycle can accommodate chang
 
 ---
 
+![Fig-003-PIRP-Lifecycle-and-Computational-Growth.png](../figures/Fig-003-PIRP-Lifecycle-and-Computational-Growth.png)
+
+---
+
 # Part III — The PIRP Lifecycle
 
 ## 22. Stage 1 — Birth

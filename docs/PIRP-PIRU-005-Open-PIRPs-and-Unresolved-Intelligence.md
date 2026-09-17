@@ -1116,6 +1116,10 @@ This is a more general search problem.
 
 ---
 
+![Fig-005-Open-PIRP-Relay-and-Research-Relay.png](../figures/Fig-005-Open-PIRP-Relay-and-Research-Relay.png)
+
+---
+
 ## 36. Open PIRP and Relay
 
 Suppose Agent A reaches a frontier:
